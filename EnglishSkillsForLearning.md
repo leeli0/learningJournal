@@ -129,6 +129,90 @@ Specialist organizations' websites
 - an end-of-text reference at the end of their assignment - this is detailed information not only about the author and their work but also about the publisher
     - Surname of the author, initial. (date of publication) title (in italics and using initial capital letters), place of publication, publisher
 
+### Reasons for writing assignments:
+- to demonstrate that they understand the subject matter they are being taught
+- to show that they can explain key ideas and information in their own words
+- to show that they can use what they have learned to solve real life problems
+- to demonstrate that they can evaluate, compare and contrast different views
+- to gain feedback from their tutors on their understading and use of course content
+
+### Types of assignment
+| Names | Descriptions |
+| ----- | ------------ |
+| Short-answer exercise | Brief answers in response to questions; the contents of one answer is not necessarily directly connected with the next |
+| Short definition and explanation | A word or concept is briefly defined and explained |
+| Summary | A short account of the content of something you have read, heard or viewed without details |
+| Essay | An assignment that focuses on one topic; it has an introduction, body paragraphs and a conclusion |
+| Report | An assignment that gives detailed information and analysis about a topic; it will often have different sections, with headings that have different functions; there is an introduction, different sections and a conclusion with recommendations |
+
+### Assignment development process
+| Stages | Descriptions |
+| ------ | ------------ |
+| Pre-writing | Generating ideas, understanding the ideas of others, collecting information, note-taking, free-writing, brainstorming |
+| Planning | Organising and focusing ideas: mind mapping, discussing, outlining |
+| Drafting | Writing inital drafts of a text |
+| Reflection | Letting work sit, coming back to it at a later point |
+| Review | Read through it or ask some |
+| Revision | Further development of the text based on the review |
+| Further research or adding new ideas | |
+| Editing and proof-reading | |
+
+### Instruction words
+| Words | Descritptions |
+| ----- | ------------- |
+| Compare and contrast | Look for differences or similarities between two or more concepts or things in an organised way |
+| Discuss/to what extent | Give reasons for and against an idea |
+| Illustrate | Make an idea clear by giving an example |
+| Summarise | Give a shortened version of a written or spoken item, stating only the key points |
+| Describe | Give a detailed account of something such as characteristics, a reading or an experience |
+| Evaluate | Examine something to judge its value, importance, quality or effectiveness |
+| Analyse | Take apart an idea and examine it in great detail in order to understand it |
+| Explain | Give details, clarify meaning or give reasons |
+
+### The main elements of a science or technology report
+| Element | Purpose | Description |
+| ------- | ------- | ----------- |
+| title | attracts the reader's attention | concise phrase or sentence introducing the content |
+| abstract | gives a brief summary | short paragraph clarifying the scope of the report and the main findings |
+| introduction | gives the purpose of the investigation being reported | explains why the invistation is undertaken and gives the essential background information |
+| main text | describes how the study was conducted<br>interprest results | the 'meat' of the report containing, for example (depending on the discipline):<br><ul><li>method of investigation/approach taken and why</li><li>record of observations or measurements</li><li>references to appropriate theories</li><li>discussion</li>analysis of the key facts</li><li></ul>|
+| conclusions | describes what the study has show | includes the meaning of the results of the investigation, what has been demonstrated and any recomendations for action |
+
+### SWOT model
+- strengths
+- weaknesses
+- opportunities
+- threats
+
+### The main elements of a business report
+| Element | Purpose | Description |
+| ------- | ------- | ----------- |
+| Title | Attracts th reader's attention | Concise phrase or sentence introducing the content |
+| Executive summary | Gives a brief summary | Section or paragraph explaing the purpose of th report, the main finds and the recommendations |
+| Introduction | Gives the purpose of the investigation being reported | Paragraph providing background information and explaining why the investigation was required |
+| Method | Explains how the investigation was conducted | Explains why a particular model has been used and how the data was collected |
+| Analysis | Examines the situation in great detail using the SWOT categories | Four sections or paragraphs under the following headings:<ul><li>strengths</li><li>seaknesses</li><li>opportunities</li><li>threats</li></ul>|
+| Conclusion | Describes what the study has shown | Paragraph briefly summarising the finds, i.e. the content of the analysis and highlighting the key factors |
+| Recommendations | Suggests future action | Paragraph or bullet point list of recommendations based on the findings |
+
+### Writers need to:
+- clearly introduce the theme of their piece of writing
+- expain and illustrate their ideas in details
+- clearly connect these ideas and information
+- conclude
+
+### introduction
+- what the essay will be about
+- the main point (or claim) it will make
+- how the main body will be organised
+
+### conclusion
+- refer to the assignment question and its key content words
+- refer to the claim make in the introduction
+- refer to and draw together the points made in the main body of the essay
+- provide a clear answer to the question
+- provide a brief comment (optional)
+
 
 References
 
