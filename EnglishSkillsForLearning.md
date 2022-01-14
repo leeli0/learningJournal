@@ -213,6 +213,17 @@ Specialist organizations' websites
 - provide a clear answer to the question
 - provide a brief comment (optional)
 
+### link paragraphs or sentences
+- The first sentence of a new paragraph mentions something the reader already know something about (link paragraphs introduce new information)
+- The topic sentences of two or more paragraphs mention the same familiar information (link paragraphs deal with the same topic)
+- Another way to connect paragraphs and sentences is to use linking words or phrases. These linking words are also called connectives.
+
+### Connectives used to:
+- add information and ideas
+- add an example
+- compare and contrast ideas
+- express cause and effect relationships
+
 
 References
 
