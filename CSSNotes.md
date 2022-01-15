@@ -17,7 +17,7 @@
 
 ### Priority
 - Later styles replace conflicting styles that appear earlier in the stylesheet. This is cascade rule.
-- A class is rated as being more specific, as in having more specificity than the element selector, so ti cancels the other conflicting style declaration.
+- A class is rated as being more specific, as in having more specificity than the element selector, so it cancels the other conflicting style declaration.
 
 ### Properties and values
 - Properties: These are human-readable identifiers that indicate which stylistic features you want to modify.
@@ -28,6 +28,7 @@
 - CSS properties and values are case-sensitive. The property and value in each pair are separated by a colon. (:)
 - If a property is unknown, or if a value is not valid for a given property, the declaration is processed as invalid. It is completedly ignored by the browser's CSS engine.
 - In CSS (and other web standards), it has been agreed that US spelling is the standard where there is language variation or uncertainty.
+- Similarly, if a browser encouters a selector that it doesn't understand,  it will just ignore the whole rule and move on to the next one.
 
 ### functions
 - A function consists of the function name, and parentheses to enclose the values for the function.
@@ -47,3 +48,14 @@ As with any coding work, it is best practice to write comments along with CSS. T
 
 ### White space
 You should always make sure to separate distinct values from on another by at least one space. Keep property names and property values together as single unbroken strings.
+
+### Inheritance
+Inheritance also need to be understood in this context - some CSS property values set on parent elements are inheritanted by their child elements, and some aren't. For example, `color`, `font-family`.
+
+### Cascade, specificity, and inheritance together control which CSS applies to what elemnt.
+
+### Controlling inheritance
+- inherit Sets the property value applied to a selected element to be the same as that of its parent element. Effectively, this "turns on inheritance".
+- initial Sets the property value applied to a selected element to the initial value of that property.
+- unset Resets the property to its natural value, which means that if the property is naturally inherited it acts like inherit, otherwise it acts like initial.
+- revert Acts like unset in many cases, however will revert the property to the browser's default styling rather than the default applied to that property.
