@@ -59,3 +59,26 @@ Inheritance also need to be understood in this context - some CSS property value
 - initial Sets the property value applied to a selected element to the initial value of that property.
 - unset Resets the property to its natural value, which means that if the property is naturally inherited it acts like inherit, otherwise it acts like initial.
 - revert Acts like unset in many cases, however will revert the property to the browser's default styling rather than the default applied to that property.
+
+### The amount of specificity a selector has is measured using four different values (or components), which can be thought of as thousands, hundreds, tens and ones - four single digits in four columns:
+1. Thousands: Score one in this column if the declaration is inside a `style` attribute, aka inline style. Such decleration don't have selectors, so their specificity is always 1000.
+2. Hundreds: Socre one in this column for each ID selector contained inside the overall selector.
+3. Tens: Score one in this column for each class selector, attribute selector, or pseudo-class contained inside the overall selector.
+4. Ones: Score one in this column for each element selector or pseudo-element contained inside the overall selector.
+### This has only been an approximate example for ease of understanding. In actuality, each selector type has its own level of specificity that cannot be overwritten by selectors with a lower specificity level. A more accurate way to evaluate specificilty would be to score the specificity levels individually starting from highest and moving on to lowest when necessary.
+
+### !important is used to make a particular property and value the most specific thing, thus overriding the normal rules of cascade.
+
+### The only way to override this !important declaration would be to include another !important declaration on a declaration with the same specificity later in the source order, or one with the higher specificity.
+
+### Strongly recommend that you never use it unless you absolutely have to. !important changes the way cascade normally works, so it can make debugging CSS problems really hard to work out, especially in a large stylesheet.
+
+### Conflicting declarations will be applied in the following order, with later ones overriding earlier ones:
+1. Delcarations in user agent style sheets (e.g. the browser's defualt styles, used when no other styling is set)
+2. Normal declarations in user style sheets (custom styles set by a user)
+3. Normal declarations in author style sheets (these are the styles set by us, the web developers)
+4. Important declarations in author style sheets
+5. Important declarations in user style sheets
+
+
+
