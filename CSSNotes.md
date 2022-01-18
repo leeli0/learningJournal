@@ -80,5 +80,18 @@ Inheritance also need to be understood in this context - some CSS property value
 4. Important declarations in author style sheets
 5. Important declarations in user style sheets
 
+### What is a selector?
+A CSS selector is the first part of a CSS Rule. It is a pattern of elements and other terms that tell the browser which HTML elements should be selected to have the CSS property values inside the rule applied to them. The element or elements which are selected by the selector are referred to as the subject of the selector.
+
+### Selector lists
+If you have more than one thing which uses the same CSS then the individual selectors can be combined into a selector list so that the rule is applied to all of the individual selectors. Combining individual selector into a selector list, by adding a comma between them. If any selector in a selector list is invalid the whole rule will be ignored.
+
+
+### Types of selectors
+- Type, class and ID selectors
+- Attribute selectors, select elements based on the presence of a certain attribute or attribute with a particular value
+- Pseudo-classes (style certain states of an element) and pseudo-elements (select a certain part of an element rather than the element itself)
+- Combinators
+
 
 
