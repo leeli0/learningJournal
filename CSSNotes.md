@@ -94,4 +94,23 @@ If you have more than one thing which uses the same CSS then the individual sele
 - Combinators
 
 
+### What is pseudo-class?
+A pseudo-class is a selector that selects elements that are in a specific state, e.g. they are the first element of their type, or they are being hovered over by the mouse pointer.
+
+### What is a pseudo-element?
+Pseudo-elements behave in a similar way. However, they act as if you had added a whole new HTML element into the markup, rather than applying a class to existing elements. Pseudo-elements start with a double colon ::.
+
+### Descendant conbinator
+The descendant combinator - typically represented by a single space ( ) character - combine two selectors such that elements matched by the second selector are selected if they have an ancestor (parent, parent's parent, parent's parent's parent, etc) element matching the first selector. Selectors that utilize a descendant combinator are called descendant selectors.
+
+### Child combinator
+The child combinator (>) is placed between two CSS selectors. It matches only those elements matched by the second selector that are the direct children of elements matched by the first. Descendant elements further down the hierarchy don't match.
+
+### Adjacent sibling combinator
+The adjacent sibling selector (+) is placed between two CSS selectors. It matches only those elements matched by the second selector that are the next sibling element of the first selector.
+
+### General sibling combinator
+If you want to select siblings of an element even if they are not directly adjacent, then you can use the general sibling combinator (~).
+
+
 
