@@ -112,5 +112,14 @@ The adjacent sibling selector (+) is placed between two CSS selectors. It matche
 ### General sibling combinator
 If you want to select siblings of an element even if they are not directly adjacent, then you can use the general sibling combinator (~).
 
+### block boxes and inline blocks
+
+### inner display type and outer display type
+- outer display type which details whether the box is block or inline
+- inner display type, however, which dictates how elements inside that box are laid out.
+
+### margin collapsing
+If you have two elements whose margins touch, and both margins are positive, those margins will combine to become one margin, and its size will be equal to the largest individual margin. If one margin is negative, its value will be subtracted from the total. Where both are negative, the margins will collapse and the smallest (furthest from zero) value will be used.
+
 
 
