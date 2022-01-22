@@ -122,4 +122,16 @@ If you want to select siblings of an element even if they are not directly adjac
 If you have two elements whose margins touch, and both margins are positive, those margins will combine to become one margin, and its size will be equal to the largest individual margin. If one margin is negative, its value will be subtracted from the total. Where both are negative, the margins will collapse and the smallest (furthest from zero) value will be used.
 
 
+### What are writing mode?
+A writing mode in CSS refers to whether the text is running horizontally or vertically.
 
+### physical, logical or flow relative properties and values
+
+### What is overflow?
+Overflow happens when there is too much content to fit in a box.
+
+### Overflow establishes a block formatting context
+
+A value type in CSS is a way to define a collection of allowable values.
+
+There are two types of lengths used in CSS - relative and absolute.
