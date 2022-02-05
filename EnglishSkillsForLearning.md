@@ -224,7 +224,29 @@ Specialist organizations' websites
 - compare and contrast ideas
 - express cause and effect relationships
 
+### Common words that writers use to add ideas or new information are:
+- also
+- too
+- in addition
+- furthermore
+- moreover
 
+### Sets of linking words
+| Set 1 | Set 2 | Set 3 | Set 4 | Set 5 |
+| ----- | ----- | ----- | ----- | ----- |
+| Firstly, ... | One reason/cause/effect ... | The first reason/cause/effect ... | Sometimes ... | The first point to note ... |
+| Secondly, ... | Another reason/cause/effect ... | The second reason/cause/effect ... | At other times ... | The next point ... |
+| Lastly, ... | A further reason/cause/effect ... | The third reason/cause/effect ... | | |
+| Finally, ... | | | | |
+
+### words that used to give examples:
+- for example
+- for instance
+- is an example
+- is a case in point
+- one example is
+- such as (Note that 'such as' can only be used to link information within and not between sentences.)
+- is illustrated
 References
 
 Calvi, A. (2014) *English: skills for learning*, UK, The Open University
